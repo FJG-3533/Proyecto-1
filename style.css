@@ -1,0 +1,24 @@
+body {
+    background-color:#9CC6DB;
+}
+header {
+    background-color:#FAB95B;
+}
+footer {
+    background-color:#FAB95B;
+    text-align: left;
+}
+img {
+    width: 350px;
+    height: 370px;
+}
+
+#container1 {
+    background-color:#FCF6D9;
+    text-align: left;
+}
+
+.container2 {
+    background-color:#DDBA7D;
+    text-align: center;
+}
